@@ -1,0 +1,9 @@
+h1{
+    text-align: center;
+}
+li{
+    display:flex;
+}
+#btTask{
+    float:right
+}
